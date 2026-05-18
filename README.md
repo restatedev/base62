@@ -1,3 +1,7 @@
+# Important
+
+We should no longer depend on this fork as the changes have been released by the upstream project.
+
 # base62
 
 A fast, zero-dependency base62 encoder/decoder library for Rust, typically used in URL shorteners. It supports both standard [0-9A-Za-z] and alternative [0-9a-zA-Z] variants.
